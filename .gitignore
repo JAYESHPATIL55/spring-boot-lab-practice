@@ -1,0 +1,13 @@
+# Compiled files
+*.class
+
+# Build folders
+bin/
+target/
+
+# Eclipse files
+.settings/
+.metadata/
+
+# Logs
+*.log
