@@ -15,13 +15,12 @@ I upload the programs I build in my lab sessions to track my learning progress a
 
 spring-boot-lab-practice
 │
-├── Day01-Application-Manufacturing-System
+- ├── Day01-Application-Manufacturing-System
+- ├── Day02- (Even-Odd-Checker)
 │
-├── Day02- (Even-Odd-Checker)
+- ├── Day03- (Practicing the Bulk Injection)
 │
-├── Day03- (Practicing the Bulk Injection)
-│
-├── Day04- (Practicing the Bulk Injection Day-2)
+- ├── Day04- (Practicing the Bulk Injection Day-2)
 
 Each folder represents a lab exercise completed during my Spring Boot training.
 
