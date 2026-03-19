@@ -17,9 +17,9 @@ spring-boot-lab-practice
 │
 ├── Day01-Application-Manufacturing-System
 │
-├── Day02- (Upcoming Lab Project)
+├── Day02- (Even-Odd-Checker)
 │
-├── Day03- (Upcoming Lab Project)
+├── Day03- (Practicing the Bulk Injection)
 
 Each folder represents a lab exercise completed during my Spring Boot training.
 
