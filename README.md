@@ -24,6 +24,10 @@ spring-boot-lab-practice
 - ├── Day04- (Practicing the Bulk Injection Day-2)
 │
 - ├── Day05- (Internatinalization-i18n)
+│
+- ├── Day06-(Practicing the project Structure Program)
+│
+- ├──
 
 Each folder represents a lab exercise completed during my Spring Boot training.
 
