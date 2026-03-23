@@ -25,9 +25,11 @@ spring-boot-lab-practice
 │
 - ├── Day05- (Internatinalization-i18n)
 │
-- ├── Day06-(Practicing the project Structure Program)
+- ├── Day06-(Practicing the project Structure Project)
 │
-- ├──
+- ├── Day07-(Practicing the project structure project-2)
+│
+- ├── 
 
 Each folder represents a lab exercise completed during my Spring Boot training.
 
