@@ -25,9 +25,19 @@ spring-boot-lab-practice
 │
 - ├── Day05- (Internatinalization-i18n)
 │
-- ├── Day06-(Practicing the project Structure Project)
+- ├── Day06- (Practicing the project Structure Project)
 │
-- ├── Day07-(Practicing the project structure project-2)
+- ├── Day07- (Practicing the project structure project-2)
+│
+- ├── Day08- (Layerd Application Development)
+│
+- ├── Day09- (@Value Annotation Initialization)
+│
+- ├──
+│
+- ├──
+│
+- ├──
 │
 - ├── 
 
