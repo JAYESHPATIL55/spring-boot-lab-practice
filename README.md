@@ -33,9 +33,9 @@ spring-boot-lab-practice
 │
 - ├── Day09- (@Value Annotation Initialization)
 │
-- ├──
+- ├── Day10- (Exam on Layerd Application)
 │
-- ├──
+- ├── 
 │
 - ├──
 │
