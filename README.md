@@ -15,7 +15,7 @@ I upload the programs I build in my lab sessions to track my learning progress a
 
 spring-boot-lab-practice
 │
-- ├── Day01-Application-Manufacturing-System
+- ├── Day01- (Application-Manufacturing-System)
 │
 - ├── Day02- (Even-Odd-Checker)
 │
@@ -37,7 +37,15 @@ spring-boot-lab-practice
 │
 - ├── Day11- (Practicing the Profiling in the project)
 │
-- ├──Day12
+- ├── Day12- (More Projects on Profiling)
+│
+- ├── Day13- (Exam On CRUD & Layerd Application)
+│
+- ├── Day14- (Practicing the Configuration Properties)
+│
+- ├── Day15- (Starting The JPA Projects Development)
+│
+- ├── 
 │
 - ├── 
 
