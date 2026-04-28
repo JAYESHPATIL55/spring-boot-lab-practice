@@ -24,7 +24,7 @@ public class AppRunner implements CommandLineRunner {
 
 			Project p2=new Project();
 			p2.setProjectId(102l);
-			p1.setProjectName("Ecommerce Platform");p1.setClientName("Amazon");
+			p2.setProjectName("Ecommerce Platform");p2.setClientName("Amazon");
 
 
 			Employee e1 = new Employee();
@@ -36,16 +36,16 @@ public class AppRunner implements CommandLineRunner {
 				e2.setEmpName("Kiran");
 				e2.setDepartment("Testing");
 
-			e1.setProjects(Arrays.asList(p1,p2));
+				e1.setProjects(Arrays.asList(p1, p2));
+				e2.setProjects(Arrays.asList(p2));
 
-			e2.setProjects(Arrays.asList(p2));
-			p1.setEmployees(Arrays.asList(e1));
-			p2.setEmployees(Arrays.asList(e2));
+				p1.setEmployees(Arrays.asList(e1));
+				p2.setEmployees(Arrays.asList(e1, e2)); // FIXED
 
 
 			empRepo.save(e1);
 			empRepo.save(e2);
-			Optional<Employee> emp = empRepo.findById(101l);
+			Optional<Employee> emp = empRepo.findById(1001l);
 			emp.ifPresent(System.out::println);
 
 	}

@@ -33,9 +33,10 @@ public class Employee {
 	
 	@ManyToMany(targetEntity = Project.class,cascade = CascadeType.ALL)
 	@JoinTable(
-			name="projects",
-			joinColumns = @JoinColumn(name="employee_id"),
-			inverseJoinColumns = @JoinColumn(name ="project_id"))
+		    name="emp_project_map",
+		    joinColumns = @JoinColumn(name="employee_id"),
+		    inverseJoinColumns = @JoinColumn(name ="project_id")
+		)
 	private List<Project> projects;
 
 	@Override
