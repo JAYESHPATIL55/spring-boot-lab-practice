@@ -45,7 +45,7 @@ spring-boot-lab-practice
 │
 - ├── Day15- (Starting The JPA Projects Development)
 │
-- ├── 
+- ├── Day16- (Starting The JPA Projects CurdRepository Development)
 │
 - ├── 
 
