@@ -45,9 +45,9 @@ spring-boot-lab-practice
 │
 - ├── Day15- (Starting The JPA Projects Development)
 │
-- ├── 
+- ├── Day16- (Starting The JPA Projects CurdRepository Development)
 │
-- ├── 
+- ├── Day17- (Starting The JPA Projects CrudReposiotry Method Development)
 
 Each folder represents a lab exercise completed during my Spring Boot training.
 
